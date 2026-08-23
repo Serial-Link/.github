@@ -4,7 +4,7 @@
 
 [![Lint](https://github.com/Serial-IO/serial/actions/workflows/lint.yml/badge.svg)](https://github.com/Serial-IO/serial/actions/workflows/lint.yml)
 [![Unit Tests](https://github.com/Serial-IO/serial/actions/workflows/unit_tests.yml/badge.svg)](https://github.com/Serial-IO/serial/actions/workflows/unit_tests.yml)
-[![JSR](https://jsr.io/badges/@serial)](https://jsr.io/@serial)
+[![JSR](https://jsr.io/badges/@serial/serial)](https://jsr.io/@serial/serial)
 
 A [serial](https://en.wikipedia.org/wiki/Serial_communication) library written in TypeScript for [Deno](https://deno.land) without any third party modules.
 
