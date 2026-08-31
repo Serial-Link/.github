@@ -10,10 +10,6 @@ A [serial](https://en.wikipedia.org/wiki/Serial_communication) library written i
 
 This library provides an interface for the communication with serial devices and **doesn't use any third party modules**. It uses C++ functions which are compiled to dynamic libraries. These functions are then loaded by Deno to establish a serial connection and talk to the devices.
 
-> [!NOTE]
->
-> We are currently migrating from our [old repository](https://github.com/TypeScriptPlayground/Serial).
-
 ## Features
 - Communication with serial devices.
 - Create multiple serial connections at the same time.
