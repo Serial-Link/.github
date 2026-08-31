@@ -53,6 +53,8 @@ Found a bug? Feel free to [open an issue](https://github.com/Serial-IO/serial/is
 
 ## Licence
 - [Serial](https://github.com/Serial-IO/serial): `GPLv2.1` Check [LICENSE](https://github.com/Serial-IO/serial/blob/main/LICENSE) for more details.
-- [C++ Core](https://github.com/Serial-IO/cpp-core): `Apache-2.0` Check [LICENSE](https://github.com/Serial-IO/cpp-core/blob/main/LICENSE) for more details.
+- [C++ Core](https://github.com/Serial-IO/cpp-core): `LGPL-2.0` Check [LICENSE](https://github.com/Serial-IO/cpp-core/blob/main/LICENSE) for more details.
+- [C++ bindings (Windows)](https://github.com/Serial-IO/cpp-bindings-windows): `LGPL-2.0` Check [LICENSE](https://github.com/Serial-IO/cpp-bindings-windows/blob/main/LICENSE) for more details.
+- [C++ bindings (Linux)](https://github.com/Serial-IO/cpp-bindings-linux): `LGPL-2.0` Check [LICENSE](https://github.com/Serial-IO/cpp-bindings-linux/blob/main/LICENSE) for more details.
 
 Feel free to contribute to this project.
